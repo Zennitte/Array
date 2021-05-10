@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Produtos\bin\Debug\net5.0\Exercicio_Produtos.exe
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Produtos\bin\Debug\net5.0\Exercicio_Produtos.deps.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Produtos\bin\Debug\net5.0\Exercicio_Produtos.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Produtos\bin\Debug\net5.0\Exercicio_Produtos.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Produtos\bin\Debug\net5.0\Exercicio_Produtos.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Produtos\bin\Debug\net5.0\ref\Exercicio_Produtos.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Produtos\bin\Debug\net5.0\Exercicio_Produtos.pdb
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Produtos\obj\Debug\net5.0\Exercicio_Produtos.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Produtos\obj\Debug\net5.0\Exercicio_Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Produtos\obj\Debug\net5.0\Exercicio_Produtos.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Produtos\obj\Debug\net5.0\Exercicio_Produtos.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Produtos\obj\Debug\net5.0\Exercicio_Produtos.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Produtos\obj\Debug\net5.0\Exercicio_Produtos.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Produtos\obj\Debug\net5.0\ref\Exercicio_Produtos.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Produtos\obj\Debug\net5.0\Exercicio_Produtos.pdb
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Produtos\obj\Debug\net5.0\Exercicio_Produtos.genruntimeconfig.cache

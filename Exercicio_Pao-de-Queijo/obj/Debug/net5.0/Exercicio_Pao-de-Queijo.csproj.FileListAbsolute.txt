@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Pao-de-Queijo\bin\Debug\net5.0\Exercicio_Pao-de-Queijo.exe
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Pao-de-Queijo\bin\Debug\net5.0\Exercicio_Pao-de-Queijo.deps.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Pao-de-Queijo\bin\Debug\net5.0\Exercicio_Pao-de-Queijo.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Pao-de-Queijo\bin\Debug\net5.0\Exercicio_Pao-de-Queijo.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Pao-de-Queijo\bin\Debug\net5.0\Exercicio_Pao-de-Queijo.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Pao-de-Queijo\bin\Debug\net5.0\ref\Exercicio_Pao-de-Queijo.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Pao-de-Queijo\bin\Debug\net5.0\Exercicio_Pao-de-Queijo.pdb
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Pao-de-Queijo\obj\Debug\net5.0\Exercicio_Pao-de-Queijo.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Pao-de-Queijo\obj\Debug\net5.0\Exercicio_Pao-de-Queijo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Pao-de-Queijo\obj\Debug\net5.0\Exercicio_Pao-de-Queijo.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Pao-de-Queijo\obj\Debug\net5.0\Exercicio_Pao-de-Queijo.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Pao-de-Queijo\obj\Debug\net5.0\Exercicio_Pao-de-Queijo.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Pao-de-Queijo\obj\Debug\net5.0\Exercicio_Pao-de-Queijo.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Pao-de-Queijo\obj\Debug\net5.0\ref\Exercicio_Pao-de-Queijo.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Pao-de-Queijo\obj\Debug\net5.0\Exercicio_Pao-de-Queijo.pdb
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Array\Exercicio_Pao-de-Queijo\obj\Debug\net5.0\Exercicio_Pao-de-Queijo.genruntimeconfig.cache

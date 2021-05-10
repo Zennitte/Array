@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercicio_Pao-de-Queijo/1.0.0": {
+        "runtime": {
+          "Exercicio_Pao-de-Queijo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_Pao-de-Queijo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
